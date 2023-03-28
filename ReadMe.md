@@ -1,0 +1,8 @@
+- pip install django
+- pip install pillow
+- django-admin startproject imagebazar .
+- python manage.py runserver
+- python manage.py startapp myapp
+- python manage.py makemigrations
+- python manage.py migrate
+- python manage.py createsuperuser
